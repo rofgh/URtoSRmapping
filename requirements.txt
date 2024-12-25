@@ -107,7 +107,7 @@ traitlets==5.0.5
 typed-ast==1.4.3
 typing-extensions==3.10.0.2
 Unidecode==1.1.2
-urllib3==1.26.3
+urllib3==1.26.5
 voila==0.2.6
 wcwidth==0.2.5
 webassets==2.0
